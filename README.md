@@ -42,5 +42,5 @@
 
 ### 🔥 Projects
 
--	[Khamphouvong](http://www.google.com)
+-	[---](http://www.google.com)
 -	[Idealab](https://idealabdevelopment.com)
