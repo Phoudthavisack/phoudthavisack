@@ -34,7 +34,7 @@
 ![flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 
-###Database
+### Database
 
 ![elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch)
 ![arangodb](https://img.shields.io/badge/-ArangoDB-000?&logo=arangodb)
@@ -42,7 +42,7 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
-###DevOps
+### DevOps
 
 ![aws](https://img.shields.io/badge/-S3-000?&logo=amazons3)
 ![aws](https://img.shields.io/badge/-EC2-000?&logo=amazonec2)
