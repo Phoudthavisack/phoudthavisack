@@ -1,9 +1,5 @@
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phoudthavisack" />
-
-
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
