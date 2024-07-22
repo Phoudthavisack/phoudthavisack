@@ -70,7 +70,6 @@ Icons from [simpleicons.org](https://simpleicons.org/?q=aws)
 ### 🔥 Projects
 
 -	[---](http://www.google.com)
--	[Idealab](https://idealabdevelopment.com)
 
 ## Products from me 🛒
 
